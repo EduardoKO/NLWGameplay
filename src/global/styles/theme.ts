@@ -16,7 +16,8 @@ export const theme = {
     secondary60:'#1B2565',
     secondary50:'#243189',
     secondary40:'#1D2766',
-    secondary30:'#495BCC'
+    secondary30:'#495BCC';
+    discord: '#7289DA';
   },
   fonts: {
     title700:'Rajdhani_700Bold',
